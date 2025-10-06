@@ -123,5 +123,5 @@ A planilha deve conter as seguintes colunas:
 
 ## 🧑‍💻 Autor
 
-**Caio [Seu Sobrenome]**
+**Caio Cesar**
 Automação de Processos | Python | Bitrix24 Integrations
